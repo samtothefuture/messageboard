@@ -1,0 +1,4 @@
+sam~test~check check !
+sam~hello~Hello, world!
+sam~weather~today it is 60 degrees and sunny, which is great to see after the recent cold front!
+laura~dinner~I am making spaghetti for dinner. yum :)
